@@ -1,1 +1,3 @@
-files: []
+files:
+  - source: /doc.resx
+    translation: /%locale%/%file_name%.%file_extension%
