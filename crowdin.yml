@@ -1,3 +1,5 @@
 files:
-  - source: /doc.resx
-    translation: /%locale%/%file_name%.%file_extension%
+  - source: /c_KoodistoSh.csv
+    translation: /%file_name%.%file_extension%
+    multilingual: 1
+    scheme: 'identifier,source_phrase,fi,sv,nb'
